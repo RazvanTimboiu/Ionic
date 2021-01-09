@@ -1,0 +1,7 @@
+{
+  "name": "MobileProjectIonic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
